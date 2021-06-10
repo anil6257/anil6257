@@ -2,7 +2,7 @@
 - 👀 I’m interested in Facebook Marekting and Website Development
 - 🌱 I’m currently learning Google Marketing
 - 💞️ I’m looking to collaborate on Marketing Agency
-- 📫 How to reach me ...
+- 📫 How to reach me @ aniljangid6257@gmail.com
 
 <!---
 anil6257/anil6257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
